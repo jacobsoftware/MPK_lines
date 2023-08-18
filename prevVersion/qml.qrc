@@ -1,0 +1,9 @@
+<RCC>
+    <qresource prefix="/">
+        <file>main.qml</file>
+        <file>stronaGlowna.qml</file>
+        <file>stronazPrzystankiem.qml</file>
+        <file>stronazKierunkiem.qml</file>
+        <file>stronazOdjazdami.qml</file>
+    </qresource>
+</RCC>
