@@ -1,0 +1,9 @@
+<RCC>
+    <qresource prefix="/">
+        <file>main.qml</file>
+        <file>menuAplikacji.qml</file>
+        <file>stronaDrugaPrzystanki.qml</file>
+        <file>stronaTrzeciaKierunek.qml</file>
+        <file>ostatniaStronaCzasyPrzyjazdow.qml</file>
+    </qresource>
+</RCC>
